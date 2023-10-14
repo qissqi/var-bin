@@ -379,7 +379,7 @@ systemctl status openvpn@server
 
 将四个文件从服务端上获取下来，保存在openVpn的配置文件夹里
 
-windows配置文件夹默认应该是位于`C:\Users\qissqi\OpenVPN\config`，建议在里面新建一个文件夹再保存进去
+windows配置文件夹默认应该是位于`C:\Users\xxx\OpenVPN\config`，建议在里面新建一个文件夹再保存进去
 
 然后新建一个.ovpn的文件（openVpn客户端的配置文件，与其他4个文件同目录）
 
