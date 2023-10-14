@@ -9,6 +9,7 @@ proxy-groups:
   - name: Proxies
     type: select
     proxies:
+      - DIRECT
       - xxx.xxx.xxx.xxx:pppp
   - name: Apple
     type: select
